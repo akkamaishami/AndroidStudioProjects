@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Teste Cores</string>
+    <string name="tV1">AZUL</string>
+    <string name="tV2">ROSA</string>
+    <string name="tV3">VERDE</string>
+    <string name="btn1">MUDAR CORES</string>
+    <string name="btn2">REVERTER CORES</string>
+</resources>
